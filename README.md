@@ -34,4 +34,4 @@ All rights reserved as below:
 
 **NOTES: Sample BBS structure not exists in this repo, you have to download it on your own. :p**
 
-A download link for reference: [http://ftp.isu.edu.tw/pub/Unix/BBS/WindTop/WindTopBBS-3.02-20040420-SNAP.tgz](http://ftp.isu.edu.tw/pub/Unix/BBS/WindTop/WindTopBBS-3.02-20040420-SNAP.tgz)
+A download link for reference: [http://ftp.isu.edu.tw/pub/Unix/BBS/WindTop/](http://ftp.isu.edu.tw/pub/Unix/BBS/WindTop/)
