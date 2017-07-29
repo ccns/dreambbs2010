@@ -1,10 +1,12 @@
+# Dreamland-BBS
+
 sample source code of ccns [夢之大地BBS](http://bbs.ccns.cc) ( telnet://ccns.cc ) for reference
 
 **current code** and **important documents** is here:
 [https://github.com/pwtsai/dreamlandbbs](https://github.com/pwtsai/dreamlandbbs)
 
 
-All rights reserved as below:
+## All rights reserved as below:
 
 `Phoenix Bulletin Board System       Version: 3.00-4.0`<br>
 `Copyright (C) 1993, 1994            Ming-Feng Chen,Ji-Tzay Yang,Tsun-Yi Wen`<br>
@@ -32,6 +34,7 @@ All rights reserved as below:
 
 
 
-**NOTES: Sample BBS structure not exists in this repo, you have to download it on your own. :p**
+## NOTES:
+**Sample BBS structure not exists in this repo**, you have to download it on your own. :p
 
 A download link for reference: [http://ftp.isu.edu.tw/pub/Unix/BBS/WindTop/](http://ftp.isu.edu.tw/pub/Unix/BBS/WindTop/)
