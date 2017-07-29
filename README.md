@@ -12,7 +12,7 @@ sample source code of ccns [夢之大地BBS](http://bbs.ccns.cc) ( telnet://ccns
 Phoenix Bulletin Board System       Version: 3.00-4.0
 Copyright (C) 1993, 1994            Ming-Feng Chen,Ji-Tzay Yang,Tsun-Yi Wen
 
-秘密情人資訊站                      Version: 3.1-4.0
+秘密情人資訊站                       Version: 3.1-4.0
 Copyright (C) 1994                  簡顯鑑, 劉佳峰
 
 MapleBridge Bulletin Board System   Version: 2.36
