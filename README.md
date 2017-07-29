@@ -28,10 +28,10 @@ Wind's Top Bulletin Board System    Version: 3.02 Rev. 20040424
 Copyright (C) 2000-2004             visor, statue, Jerics, yab, verit
 
 Wind's Top Bulletin Board System    Version: 3.10 Rev. 20081002
-Copyright (C) 2004-2008             Hung-Yi Chen (gaod)`<br>
+Copyright (C) 2004-2008             Hung-Yi Chen (gaod)
 
 DreamLand Bulletin Board System     Version: 3.10 Rev. Beta 3
-Copyright (C) 2010                  Pang-Wei Tsai (cache)`<br>
+Copyright (C) 2010                  Pang-Wei Tsai (cache)
 ```
 
 
