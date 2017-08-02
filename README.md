@@ -2,9 +2,8 @@
 
 sample source code of ccns [夢之大地BBS](http://bbs.ccns.cc) ( telnet://ccns.cc ) for reference
 
-**current code** and **important documents** is here:
-[https://github.com/pwtsai/dreamlandbbs](https://github.com/pwtsai/dreamlandbbs)
-
+**current code** and **important documents** is here:<br>
+https://github.com/ccns/dreamlandbbs
 
 ## All rights reserved as below:
 
