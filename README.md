@@ -35,6 +35,6 @@ Copyright (C) 2010                  Pang-Wei Tsai (cache)
 
 
 ## NOTES:
-**Sample BBS structure not exists in this repo**, you have to download it on your own. :p
+**Sample BBS structure not exists in this repo**, you have to build it on your own. :p
 
-A download link for reference: [http://ftp.isu.edu.tw/pub/Unix/BBS/WindTop/](http://ftp.isu.edu.tw/pub/Unix/BBS/WindTop/)
+Download link of Sample BBS structure (for reference) : http://ftp.isu.edu.tw/pub/Unix/BBS/WindTop/
